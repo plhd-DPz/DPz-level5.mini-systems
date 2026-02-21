@@ -27,11 +27,11 @@ This repository contains structured multi-file applications and small-scale syst
 
 ## Structure
 
-project_name/
-    src/
-    resources/
-    main_entry
-    README.md
+        project_name/
+            src/
+            resources/
+            main_entry
+            README.md
 
 ## Focus Areas
 
